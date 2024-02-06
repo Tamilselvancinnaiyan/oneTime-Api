@@ -1,0 +1,16 @@
+,Page,Visual ID,Table,Name,Type
+0,Page 1,ba7ab4c5a3e0edd2774b,diabetes,Age,Column
+1,Page 1,ba7ab4c5a3e0edd2774b,diabetes,Age,Aggregation
+2,Page 1,ba7ab4c5a3e0edd2774b,diabetes,BloodPressure,Aggregation
+3,Page 1,ba7ab4c5a3e0edd2774b,diabetes,Insulin,Aggregation
+4,Page 1,ba7ab4c5a3e0edd2774b,diabetes,BMI,Aggregation
+5,Page 1,3ca458dc550f8c7b395e,diabetes,Glucose,Column
+6,Page 1,3ca458dc550f8c7b395e,diabetes,Age,Aggregation
+7,Page 1,3ca458dc550f8c7b395e,diabetes,SkinThickness,Aggregation
+8,Page 1,39ceea989fdf2984ca9d,Sheet1,Gender,Aggregation
+9,Page 1,39ceea989fdf2984ca9d,Sheet1,SINO,Column
+10,Page 1,ed3229b7285e0f5b1f5d,diabetes,Age,Column
+11,Page 1,ed3229b7285e0f5b1f5d,diabetes,BloodPressure,Aggregation
+12,Page 2,508ce4c4e0921c8293f8,Sheet1,Gender,Column
+13,Page 2,348c6961ab7e75b2e411,Sheet1,Gender,Column
+14,Page 2,348c6961ab7e75b2e411,Sheet1,num,Column
